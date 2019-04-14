@@ -1,0 +1,25 @@
+body{background-color:#fefbd8;
+	 text-align:center;
+	 font-family: Tahoma, Geneva, sans-serif;}
+	 
+div {left:10px;
+	 top:5px;
+	 margin-top:10px;}
+	 
+#board {width:41%;
+	    margin:auto;}
+		
+img {border-radius:10px;
+	 margin-left:5px;
+	 border:solid;
+	 border-width:1.5px;}
+	 
+img:hover {border-color:blue;}
+
+input {border-radius:12px 0 12px 0;
+	   background: #f5f5f5;
+	   border:none;
+	   color:#555;
+	   font:12px Verdana;
+	   padding:6px 0 6px 0;
+	   border:1px solid #ccc;}
